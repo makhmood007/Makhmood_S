@@ -69,3 +69,6 @@ price = 450
 num31 = 'spam'
 num32 = 'egg'
 print(num31+num32)
+print(num31)
+
+print(num31)
